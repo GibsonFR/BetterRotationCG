@@ -1,2 +1,3 @@
 # BetterRotationCG
-Update more  frequently your rotation
+Go in betterMovement repository
+
